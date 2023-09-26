@@ -1,10 +1,8 @@
 # REST request
 
-Java RESTful Web Services API
-
-Java API for RESTful Web Services (JAX-RS) is the Java API for creating REST web services. JAX-RS uses annotations to simplify the development and deployment of web services. JAX-RS is part of JDK, so you don’t need to include anything to use it’s annotations.
-
-
+REST commands in Java
 
 # References
-https://www.digitalocean.com/community/tutorials/restful-web-services-tutorial-java
+https://hc.apache.org/httpcomponents-client-4.5.x/index.html
+
+https://stackoverflow.com/questions/29064436/how-to-build-restful-request-over-in-java
