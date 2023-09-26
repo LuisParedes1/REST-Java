@@ -2,6 +2,9 @@
 
 REST commands in Java
 
+# Testing
+The following site can be used to test the REST commands: https://httpbin.org/#/
+
 # References
 https://hc.apache.org/httpcomponents-client-4.5.x/index.html
 
